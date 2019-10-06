@@ -2,7 +2,6 @@
   "name": "testing-node-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
   "scripts": {
     "start": "tsc && node dist/index.js"
   },
